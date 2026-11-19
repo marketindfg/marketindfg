@@ -1,0 +1,13 @@
+GITHUB PAGES UPLOAD
+
+1. Open the repository marketindfg.github.io
+2. Upload the CONTENTS of this ZIP to the repository root (do not upload the ZIP itself).
+3. Commit the files.
+4. Open Settings > Pages.
+5. Under Build and deployment choose: Deploy from a branch.
+6. Branch: main
+7. Folder: /(root)
+8. Save.
+
+Your website should then use:
+https://marketindfg.github.io/

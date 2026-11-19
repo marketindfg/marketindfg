@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marketindfg.github.io/sitemap.xml
